@@ -2,4 +2,4 @@
 
 I am a Deep Learning Researcher
 
-Currently, I am pursuing my 
+Currently, I am pursuing my ㅡㄴ
