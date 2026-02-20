@@ -4,6 +4,11 @@ I am a Deep Learning Researcher
 
 Currently, I am pursuing my M.S. in Smart Factory Convergence at Sungkyunkwan University
 
+## 🎓 Education
+
+- **M.S. in Smart Factory Convergence**, Sungkyunkwan University *(2026 - Present)*
+
+
 
 ## 📚 Seminar on Thesis Research
 
@@ -14,3 +19,15 @@ Currently, I am pursuing my M.S. in Smart Factory Convergence at Sungkyunkwan Un
 
 
 ---
+
+
+## 🏆 Paper
+
+
+---
+
+## 🔧 Skills
+
+### Programming & Frameworks
+- **Python*
+- **C++ *
