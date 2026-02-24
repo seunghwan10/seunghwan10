@@ -4,7 +4,6 @@ I am a Deep Learning Researcher
 
 Currently, I am pursuing my M.S. in Smart Factory Convergence at Sungkyunkwan University
 
----
 
 🔬 **Research Interests:**
 - Time Series Analysis
