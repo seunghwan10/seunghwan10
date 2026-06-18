@@ -27,6 +27,7 @@ Currently, I am pursuing my M.S. in Smart Factory Convergence at Sungkyunkwan Un
 | 2026-03-09 | Multi-View Industrial Anomaly Detection with Epipolar Constrained Cross-View Fusion          | [Link](https://youtu.be/OVOuseoESik?si=bsix7gBWLHPGBTBu) |
 | 2026-04-13 | Learning Auxiliary Monocular Contexts Helps Monocular 3D Object Detection                    | [Link](https://youtu.be/gmtgKkEQuAU?si=E8M1SfwhrNNq39Wh) |
 | 2026-05-04 | MonoMAE Enhancing Monocular 3D Detection through Depth-Aware Masked Autoencoders             | [Link](https://youtu.be/YqG0UKhqqYQ?si=ujoR9knAFB1T4H5W) |
+| 2026-06-01 | Improved object detection method for autonomous driving based on DETR              | [Link](https://youtu.be/kQDoHNgCOCk?si=RJQUlR75T9rleGKC) |
 ---
 
 ## 🔧 Skills
